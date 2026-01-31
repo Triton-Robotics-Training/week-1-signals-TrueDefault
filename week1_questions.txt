@@ -1,6 +1,9 @@
 Question 1: Explain the difference between analog and digital signals.
+Digital signals are discrete and can only have a finite amount of possible values (i.e. High/Low, 1/0). Analog signals are continuous and can have any value between a maximum and minimum (i.e. 0.51, 0.78, 0.12). 
 
 Question 2: Give an example of something that uses digital signals and how it uses it.
+One example of something that uses digital signals would be a button, like the one we used in exercise 1. Buttons only have 2 possible states, on and off. This fits the description for a digital signal because there are no in-between values.
 
 Question 3: Give an example of something that uses analog signals and how it uses it.
+An example of something that uses analog signals is a volume control knob. Volume is something that doesn't flip between 2 states, there are in-between values. Volume is also something that changes gradually and smoothly so it is a perfect application for analog signals.
 
